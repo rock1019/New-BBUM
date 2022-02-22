@@ -1,0 +1,29 @@
+h1{
+    font-size: 50px;
+}
+p{
+    color: rgb(73, 175, 115);
+    font-size: x-small;
+}
+
+li{
+    font-size: 15px;
+}
+table
+{
+border: 1px solid black;
+padding: 5px;
+margin: 30px;
+}
+#VY{
+    position: relative;
+    left: 130px;
+}
+#STOP{
+    position: relative;
+    bottom: 150px;
+}
+#MAIN{
+    position: relative;
+    bottom: 130px;
+}
